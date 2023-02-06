@@ -1,0 +1,99 @@
+.container {
+    height: fit-content;
+    width: 100%;
+}
+
+.image {
+    color: #db2828;
+    height: 150px;
+}
+
+.imagediv {
+    display: flex !important;
+    align-items: center;
+}
+
+.trainSegment {
+    display: flex !important;
+    justify-content: space-evenly !important;
+    /* background: pink !important; */
+    color: none !important;
+    align-items: flex-end !important;
+    border-radius: 50px;
+    padding: 70px !important;
+}
+
+.flightSegment {
+    display: flex !important;
+    justify-content: space-evenly !important;
+    /* background-color: #C1E6F5 !important; */
+    color: none !important;
+    align-items: flex-end !important;
+    border-radius: 50px;
+    padding: 70px !important;
+}
+
+.offersSegment{
+    display: flex !important;
+    justify-content: space-evenly !important;
+    /* background: pink !important; */
+    color: none !important;
+    align-items: flex-end !important;
+    border-radius: 50px;
+    padding: 70px !important;   
+}
+
+/* .SelectDivision {
+    width: 220px;
+} */
+
+.dataInput {
+    width: 190px;
+}
+
+.SelectBtnDivision{
+    margin-bottom: 15px !important;
+}
+
+.label {
+    display: flex !important;
+}
+.icon {
+    font-size: 20px;
+}
+
+.trainLabel {
+    display: flex;
+    color: white;
+}
+
+.flightLabel {
+    display: flex;
+    color: #2185d0
+}
+
+.inputDivision {
+    display: flex;
+    flex-direction: column;
+}
+
+.irctc {
+    font: italic small-caps bold 30px/48px Georgia, serif;
+    color: #db2828;
+}
+
+.flightTicket {
+    font: italic small-caps bold 30px/48px Georgia, serif;
+    color: #2185d0
+}
+
+.trainDetails {
+    padding: 10px !important;
+    margin-left: 50px !important;
+    margin-right: 50px !important;
+}
+
+.trainContainer {
+    width: 100%;
+    display: inline;
+}

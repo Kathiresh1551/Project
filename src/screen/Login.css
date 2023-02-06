@@ -1,0 +1,52 @@
+.loginContainer {
+     display: flex;
+     /* justify-content: center; */
+}
+.logoImage {
+     height: 650px !important;
+}
+.loginBtn {
+     margin-top: 25px;
+     display: flex;
+     justify-content: center;
+}
+.inputFeild {
+     margin-top: 100px;
+     width: 500px;
+     height: 500px;
+}
+.inputLabel {
+     display: flex;
+     padding-top: 25px;
+}
+.loginSegemt {
+     margin-top: 0 !important;
+}
+.btnContainer {
+     display: flex;
+}
+.signInBtn {
+     width: 50%;
+     border-radius: 50px !important;
+}
+.signUpBtn {
+     width: 50%;
+     border-radius: 50px !important;
+}
+.signInBtnAct .signUpBtnAct {
+     background-color: green !important;
+     width: 50% !important;
+}
+.askRole {
+     margin-top: 10px;
+}
+.askAdmin {
+     color: blue !important;
+     text-decoration: underline !important;
+     cursor: pointer;
+}
+.askUser {
+     color: blue !important;
+     text-decoration: underline !important;
+     cursor: pointer;
+}

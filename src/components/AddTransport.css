@@ -1,0 +1,97 @@
+.AddTransport {
+    padding: 50px 50px 25px;
+    /* padding-left: 25px;
+    padding-right: 25px; */
+}
+
+/* .trainContainer {
+    background: #C1E6F5  !important;
+}
+
+.flightContainer {
+    background-color: #C1E6F5 !important;
+} */
+
+.AddTransportContainer {
+    margin: 50px;
+}
+.addingInput {
+    padding: 25px;
+    display: flex;
+    justify-content: space-between;
+}
+.submit {
+    display: flex;
+    justify-content: center;
+    padding-bottom: 50px;
+}
+.feild {
+    padding-top: 15px;
+    max-width: 50% !important;
+}
+.daysContainer {
+    padding: 25px;
+    display: flex;
+    justify-content: space-between;
+}
+.addTransport {
+    max-width: 100%;
+    display: flex !important;
+    justify-content: center !important;
+    margin: 25px;
+}
+.daysDiv {
+    display: flex;
+    margin-top: 15px;
+}
+.daysLabel {
+    font-size: 25px;
+}
+.trainDaySelected {
+    height: 50px;
+    width: 60px;
+    /* border: 2px solid black; */
+    display: flex;
+    justify-content: center !important;
+    border-radius: 30px;
+    padding: 12px;
+    cursor: pointer;
+    background-color: #d01919;
+    color: white;
+}
+.flightDaySelected {
+    height: 50px;
+    width: 60px;
+    /* border: 2px solid black; */
+    display: flex;
+    justify-content: center !important;
+    border-radius: 30px;
+    padding: 12px;
+    cursor: pointer;
+    background-color: #1678c2;
+    color: white;
+}
+.days {
+    height: 50px;
+    width: 60px;
+    border: 1px solid gray;
+    display: flex;
+    justify-content: center !important;
+    border-radius: 30px;
+    padding: 12px;
+    cursor: pointer;
+}
+.arrivalTimeLabel {
+    font-size: 15px;
+    display: flex;
+}
+.deptTimeLabel {
+    font-size: 15px;
+    display: flex;
+}
+.departureTime {
+    margin-top: 10px;
+}
+.arrivalTime {
+    margin-top: 10px;
+}
