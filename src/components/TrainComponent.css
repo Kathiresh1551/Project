@@ -1,0 +1,38 @@
+.transportDetailsContainer {
+    height: fit-content;
+    border: 1px solid;
+    border-radius: 15px;
+    margin: 30px;
+    display: flex;
+    justify-content: space-between;
+    line-height: 35px;
+    width: auto;
+}
+
+.daysAvaliable {
+    word-spacing: 10px;
+    font-size:small;
+}
+
+.container1 {
+    margin-top: 15px;
+    margin-left: 35px;
+    font-size: large;
+}
+
+.container2 {
+    margin-top: 15px;
+    font-size: large;
+}
+
+.bookTicketBTN {
+    margin-top: 35px;
+    margin-right: 35px;
+}
+.noTrainContent {
+    display: flex;
+    justify-content: center !important;
+    flex-direction: column !important;
+    width: 500px;
+    margin: 170px;
+}

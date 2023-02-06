@@ -1,0 +1,15 @@
+.requestForm {
+    width: 500px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+.submitButton {
+    display: flex;
+    justify-content: center;
+    margin-top: 25px;
+}
+.requestFormPage {
+    display: flex;
+    justify-content: center;
+}

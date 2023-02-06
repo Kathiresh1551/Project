@@ -1,0 +1,43 @@
+.logoName {
+    display: block ruby !important;
+    color: white;
+}
+.trainLogoName {
+    color: #db2828 !important;
+}
+.flightLogoName {
+    color: #2185d0;
+}
+.offersLogoName {
+    color: #0a7323;
+}
+/* .menu {
+    color: white !important;
+} */
+.trainMenu {
+    /* background-color: #d01919; */
+    /* background-color: pink; */
+    color: white !important;
+}
+.flightMenu {
+    color: white !important;
+}
+.offersMenu {
+    background-color: #90EE90;
+    color: white !important;
+}
+.trainBG {
+    background-image: url('../assets/image/trainBackground.jpg');
+    height: 1020px !important;
+}
+.flightBG {
+    background-image: url('../assets/image/flight8.webp');    
+    height: 1020px !important;
+    /* width: 100%; */
+}
+.comingSoonImg {
+    width: 100% !important;
+    height: 650px !important;
+    display: flex;
+    justify-content: center;
+}

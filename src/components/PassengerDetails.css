@@ -1,0 +1,82 @@
+.formContainer {
+    width: 500px;
+    padding-bottom: 25px;
+}
+.segmentHeader {
+    position: sticky !important;
+    top: 0 !important;
+    z-index: 10 !important;
+    background: white;
+}
+.addPassengerTittle {
+    margin-top: 0px !important;
+    padding-left: 15px !important;
+}
+.titleHeader {
+    display: flex;
+    justify-content: space-between;
+}
+.segment {
+    border-radius: 0px !important;
+}
+.pdContainer {
+    display: flex;
+    justify-content: center;
+}
+
+.Btn {
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 25px;
+}
+
+.headerContainer {
+    display: flex;
+    justify-content: space-between;
+}
+
+.removeBtn {
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 15px;
+}
+
+.trainDetailsCard {
+    margin-bottom: 20px !important;
+    background: white;
+    display: flex;
+    justify-content: center;
+}
+.trainDetailsSegment {
+    width: 500px;
+}
+.trainDetails {
+    display: flex;
+    justify-content: space-between;
+    margin-left: 0px !important;
+    margin-right: 0px !important;
+    padding: 0px !important;
+    text-align: justify;
+}
+.backIcon {
+    cursor: pointer;
+}
+.trainDetails {
+    display: flex;
+    justify-content: space-between;
+}
+.homeContainer {
+    display: flex;
+    justify-content: space-around;
+}
+.homeIcon {
+    margin-left: 30px !important;
+    margin-top: 5px !important;
+    cursor: pointer !important;
+}
+.totalRate {
+    display: flex;
+    justify-content: flex-end;
+    font-size: 20px;
+     font-weight: 600;
+}
